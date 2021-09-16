@@ -1,6 +1,6 @@
 def print_hi(name):
     print(f'Hi, {name}')
-    print(f'yesss')
+    print(f'no')
 
 
 if __name__ == '__main__':
